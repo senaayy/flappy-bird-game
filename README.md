@@ -5,7 +5,7 @@ Bu proje, popüler Flappy Bird oyununun C# Windows Forms kullanılarak geliştir
 ## Özellikler
 
 *   **Oyun Mekanikleri:** Kuşun zıplaması, yer çekimi, borulardan geçiş, çarpışma algılama.
-*   **Görseller:** Angry Birds temalı kuş (`redbird-midflap.png`), borular (`pipe-red.png`), zemin (`base.png`) ve iki farklı arka plan (`background-day.png`, `background.png` - gece için).
+*   **Görseller:** Flappy Birds temalı kuş (`redbird-midflap.png`), borular (`pipe-red.png`), zemin (`base.png`) ve iki farklı arka plan (`background-day.png`, `background.png` - gece için).
 *   **Kullanıcı Arayüzü:** Başlangıç mesajı (`message.png`), oyun bitti ekranı (`gameover.png`) ve skor görselleri (`0.png` - `9.png`).
 *   **Zorluk Artışı:** Oyun ilerledikçe boruların hızı artar ve aralarındaki boşluk daralır.
 *   **Gece/Gündüz Döngüsü:** Belirli skor aralıklarında oyunun arka planı gece ve gündüz arasında geçiş yapar.
