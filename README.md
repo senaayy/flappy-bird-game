@@ -1,6 +1,6 @@
 # Flappy Bird Oyunu (C# Windows Forms)
 
-Bu proje, popüler Flappy Bird oyununun C# Windows Forms kullanılarak geliştirilmiş bir versiyonudur. Oyun, ilerledikçe zorluk seviyesi artan, gece/gündüz döngüsü içeren ve Angry Birds temalı görsellere sahip basit bir 2D platform oyunudur.
+Bu proje, popüler Flappy Bird oyununun C# Windows Forms kullanılarak geliştirilmiş bir versiyonudur. Oyun, ilerledikçe zorluk seviyesi artan, gece/gündüz döngüsü içeren ve Flappy Bird temalı görsellere sahip basit bir 2D platform oyunudur.
 
 ## Özellikler
 
@@ -9,7 +9,6 @@ Bu proje, popüler Flappy Bird oyununun C# Windows Forms kullanılarak geliştir
 *   **Kullanıcı Arayüzü:** Başlangıç mesajı (`message.png`), oyun bitti ekranı (`gameover.png`) ve skor görselleri (`0.png` - `9.png`).
 *   **Zorluk Artışı:** Oyun ilerledikçe boruların hızı artar ve aralarındaki boşluk daralır.
 *   **Gece/Gündüz Döngüsü:** Belirli skor aralıklarında oyunun arka planı gece ve gündüz arasında geçiş yapar.
-*   **Tam Ekran Modu:** Uygulama başlatıldığında tam ekran olarak açılır.
 *   **Kontroller:**
     *   `Boşluk Tuşu (Spacebar)`: Kuşu zıplatır ve oyunu başlatır.
     *   `R Tuşu`: Oyun bittiğinde yeniden başlatır.
